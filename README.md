@@ -1,6 +1,6 @@
 ## Rust Cargo Bash Scripts
 
-> This experimental RFC adds unstable support for single-file packages in cargo. ((rfc 3424)[https://rust-lang.github.io/rfcs/3424-cargo-script.html])
+> This experimental RFC adds unstable support for single-file packages in cargo. ([rfc 3424](https://rust-lang.github.io/rfcs/3424-cargo-script.html))
 
 Putting some examples of `cargo scripts` to test the ability to have a single file script.
 
