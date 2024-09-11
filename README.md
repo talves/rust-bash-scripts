@@ -6,6 +6,10 @@ Putting some examples of `cargo scripts` to test the ability to have a single fi
 
 ### Use case
 
+#### `clap` docs example
+
+You can [find example here](https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#script)
+
 #### `trunk` install for CI
 
 `./bin/install_trunk.rs`
