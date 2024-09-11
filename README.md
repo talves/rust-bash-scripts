@@ -6,4 +6,9 @@ Putting some examples of `cargo scripts` to test the ability to have a single fi
 
 ### Use case
 
+#### `trunk` install for CI
+
+`./bin/install_trunk.rs`
+
 I was using a rust project to create a static site using leptos, but needed a way to globally install a cargo crate (trunk) prior to using the command in creating a build. I've included the install script here with others.
+

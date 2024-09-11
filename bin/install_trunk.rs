@@ -7,7 +7,6 @@
 //! edition = "2021"
 //!
 //! [dependencies]
-//! # clap = { version = "4.4.12", features = ["derive"] }
 //! ```
 
 use std::env;
