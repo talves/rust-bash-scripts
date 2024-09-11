@@ -1,13 +1,11 @@
 #!/usr/bin/env -S cargo +nightly -Zscript
-
-//! ```cargo
-//! [package]
-//! name = "install_trunk"
-//! version = "0.3.0"
-//! edition = "2021"
-//!
-//! [dependencies]
-//! ```
+---cargo
+[package]
+name = "install_trunk"
+version = "0.4.0"
+edition = "2021"
+[dependencies]
+---
 
 use std::env;
 use std::process::Command;
