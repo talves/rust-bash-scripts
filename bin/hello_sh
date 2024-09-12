@@ -2,9 +2,9 @@
 ---cargo
 [package]
 name = "hello"
-version = "0.1.0"
+version = "0.2.0"
 [dependencies]
-clap = { version = "4.2", features = ["derive"] }
+clap = { version = "4.5.17", features = ["derive"] }
 ---
 
 use clap::Parser;
